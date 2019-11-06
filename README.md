@@ -6,7 +6,6 @@ This app makes me learn about some core programming concepts for the foundation 
 
 ## What is Magic 8 Ball
 
-Dicee app is an app to roll dices. We can make the die roll at the press of a button or by shaking our phone.
 This Magic 8 Ball app is a simple decision maker app. This app simply gives random answer when we press `Ask` button.
 
 ## What I've learnt
